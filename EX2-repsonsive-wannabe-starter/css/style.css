@@ -129,9 +129,17 @@ img {
  ************************************************/
 
 
- @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1140px) {
     .container{
         max-width: 100%;
         margin: 0 auto;
     }
 } 
+
+
+@media screen and (max-width: 480px) {
+    .row{
+        display: flex;
+        flex-direction: column;
+    }
+}
