@@ -140,7 +140,7 @@ img {
  @media screen and (max-width: 480px) {
 
 
-    .why-us, body{
+    body .why-us{
         background-color: black;
     }
 
@@ -154,6 +154,10 @@ img {
 
    .steps .col{
     width: 100%;
+   }
+
+   .steps{
+    margin: 0;
    }
 
    .why-us .col-left{
