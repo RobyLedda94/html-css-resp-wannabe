@@ -137,9 +137,8 @@ img {
 } 
 
 
-@media screen and (max-width: 480px) {
-    .row{
-        display: flex;
-        flex-direction: column;
+ @media screen and (max-width: 480px) {
+    .text-center{
+       text-align: left;
     }
 }
