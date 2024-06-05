@@ -138,9 +138,7 @@ img {
 
 
  @media screen and (max-width: 480px) {
-    .text-center{
-       text-align: left;
-    }
+
 
     .why-us{
         background-color: black;
@@ -148,5 +146,9 @@ img {
 
    .row{
     flex-direction: column;
+
    }
+
+
+  
 }
