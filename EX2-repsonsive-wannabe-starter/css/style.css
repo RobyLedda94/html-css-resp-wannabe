@@ -145,4 +145,8 @@ img {
     .why-us{
         background-color: black;
     }
+
+   .row{
+    flex-direction: column;
+   }
 }
