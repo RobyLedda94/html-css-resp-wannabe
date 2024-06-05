@@ -142,6 +142,8 @@ img {
 
     body .why-us{
         background-color: black;
+        padding-top: 30px;
+        margin-bottom: 0;
     }
 
    .row{
@@ -154,6 +156,7 @@ img {
 
    .steps .col{
     width: 100%;
+    margin: 20px 0;
    }
 
    .steps{
