@@ -140,7 +140,7 @@ img {
  @media screen and (max-width: 480px) {
 
 
-    .why-us{
+    .why-us, body{
         background-color: black;
     }
 
